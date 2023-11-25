@@ -1,5 +1,6 @@
 {
     "name": "lekce  05-vstup-03-kostka 02",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
